@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **harder/harder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋🏻 Howdy, I'm Kevin
+
+<p align="center">
+  <a href="https://kevinharder.com">KevinHarder.com</a> •
+  <a href="https://github.com/harder">GitHub</a> •
+  <a href="https://www.linkedin.com/in/KevinHarder">LinkedIn</a>
+</p>
+
+---
